@@ -1,4 +1,4 @@
-DROP table IF EXISTS cliente;
+DROP table IF EXISTS empleado;
 
 create table empleado(
     id int auto_increment,
